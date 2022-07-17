@@ -17,7 +17,7 @@
 #### Software Development Lifecycle
 ![Certificate](https://github.com/tuanbeeee/certificates/blob/main/Software%20Development%20Lifecycle.png?raw=true)
 
-#### eb Design for Everybody
+#### Web Design for Everybody
 ![Certificate](https://github.com/tuanbeeee/certificates/blob/main/Web%20Design%20for%20Everybody.png?raw=true)
 
 
